@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940129541681",
+    "project_id": "alabtechnology-c7d3c",
+    "storage_bucket": "alabtechnology-c7d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940129541681:android:243cfaae4646736c0d3f10",
+        "android_client_info": {
+          "package_name": "com.example.albatechnology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVREDXHXEa25oXusWHVPi8_SoZJVE72bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
